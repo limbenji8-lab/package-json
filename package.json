@@ -18,6 +18,7 @@
     "lib/"
   ],
   "scripts": {
+    "build": 'vite build"
     "snap": "tap",
     "test": "tap",
     "lint": "npm run eslint",
